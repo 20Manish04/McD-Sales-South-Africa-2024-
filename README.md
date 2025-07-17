@@ -1,6 +1,6 @@
-# McD-Sales-South-Africa-2025- 
+# McD-Sales-South-Africa-2024- 
 This dashboard shows McDonald's South America sales data for 2025. It includes total sales, profit, number of customers, and customer satisfaction scores. 
-Visuals display sales trends (2021 vs 2022) and a map of sales distribution by country.
+Visuals display sales trends (2023 vs 2024) and a map of sales distribution by country.
 Overall, it provides a clear overview of performance and customer insights across the region. 
 This is a professional sales dashboard for McDonald's South America operations in 2025, built to analyse key performance metrics and customer insights. 
 The dashboard features:  
