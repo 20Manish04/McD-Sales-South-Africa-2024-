@@ -11,7 +11,7 @@ Key Metrics (Top KPIs):
 Each KPI is accompanied by a circular progress indicator showing achievement percentage.  
 
 Sales Trend Analysis (Line Chart): Compares monthly sales trends for 2023 (blue) and 2024 (red). 
-Shows an overall upward trend in 2022 compared to 2021, with peak sales in December. 
+Shows an overall upward trend in 2024 compared to 2023, with peak sales in December. 
 
 Customer Satisfaction (Radar Chart):  
 Highlights performance in five areas:   
